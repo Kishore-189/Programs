@@ -17,11 +17,7 @@ int main()
     {
         sum+=i*arr[i];
     }
-    for(int i=0;i<n;i++)
-    {
-        
-        
-    }
+    
     cout<<"\n"<<sum;
 
     return 0;

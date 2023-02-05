@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     
-    int arr[1000000];
+    int arr[1000000]; //arraysize
     int sum=0;
     int n;
     cin>>n;

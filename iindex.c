@@ -11,7 +11,7 @@ int main()
     cin>>n;
     for(int i=0;i<n;i++)
     {
-        cin>>arr[i];
+        cin>>arr[i];   //Getting array as input
     }
     for(int i=0;i<n;i++)
     {

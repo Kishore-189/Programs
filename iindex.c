@@ -15,10 +15,11 @@ int main()
     }
     for(int i=0;i<n;i++)
     {
-        sum+=i*arr[i];
+        sum+=i*arr[i]; //Multiplying array elements with its index and torr it in sum variable.
     }
     
     cout<<"\n"<<sum;
 
     return 0;
+
 }

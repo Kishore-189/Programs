@@ -19,8 +19,9 @@ int main()
     }
     
     cout<<"\n"<<sum;
+    //Returnig sum of array and its index
 
     return 0;
-    //Returnig sum of array and its index
+    
 
 }

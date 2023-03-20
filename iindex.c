@@ -21,5 +21,6 @@ int main()
     cout<<"\n"<<sum;
 
     return 0;
+    //Returnig sum of array and its index
 
 }
